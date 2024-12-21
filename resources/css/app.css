@@ -1,0 +1,9 @@
+/* Star Rating */
+.fa-star {
+    color: gray;
+    font-size: 20px;
+}
+
+.fa-star.checked {
+    color: gold;
+}
