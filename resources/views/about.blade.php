@@ -23,16 +23,16 @@
             <h3>Connect with Me</h3>
             <ul class="list-inline">
                 <li class="list-inline-item">
-                    <a href="https://github.com/your-github" class="btn btn-dark" target="_blank">GitHub</a>
+                    <a href="https://github.com/khanielReal" class="btn btn-dark" target="_blank">GitHub</a>
                 </li>
                 <li class="list-inline-item">
-                    <a href="https://linkedin.com/in/your-linkedin" class="btn btn-primary" target="_blank">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/haniel-kamau-166218247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " class="btn btn-primary" target="_blank">LinkedIn</a>
                 </li>
                 <li class="list-inline-item">
-                    <a href="https://twitter.com/your-twitter" class="btn btn-info" target="_blank">Twitter</a>
+                    <a href="https://x.com/Haniel_real?s=09" class="btn btn-info" target="_blank">Twitter</a>
                 </li>
                 <li class="list-inline-item">
-                    <a href="https://discord.com/users/your-discord" class="btn btn-secondary" target="_blank">Discord</a>
+                    <a href="https://discord.com/users/Haniel" class="btn btn-secondary" target="_blank">Discord</a>
                 </li>
             </ul>
         </div>
