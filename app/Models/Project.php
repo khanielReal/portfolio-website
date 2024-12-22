@@ -10,4 +10,10 @@ class Project extends Model
     use HasFactory;
 
     protected $fillable = ['title', 'description', 'status'];
+
+    // Add this method
+    public function reviews()
+    {
+        return $this->hasMany(Review::class);
+    }
 }

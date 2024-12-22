@@ -9,5 +9,12 @@ class Review extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['name', 'review', 'rating'];
+    protected $fillable = ['name', 'review', 'rating', 'project_id'];
+
+    // Add this method
+    public function project()
+    {
+        return $this->belongsTo(Project::class);
+    }
 }
+
