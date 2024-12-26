@@ -25,24 +25,7 @@
             </div>
         @endif
 
-        <!-- Review Submission Form -->
-        <form action="{{ url('/reviews') }}" method="POST">
-            @csrf
-            <div class="mb-3">
-                <label for="name" class="form-label">Your Name</label>
-                <input type="text" class="form-control" id="name" name="name" required>
-            </div>
-            <div class="mb-3">
-                <label for="review" class="form-label">Your Review</label>
-                <textarea class="form-control" id="review" name="review" rows="4" required></textarea>
-            </div>
-            <div class="mb-3">
-                <label for="rating" class="form-label">Rating (1 to 5)</label>
-                <input type="number" class="form-control" id="rating" name="rating" min="1" max="5" required>
-            </div>
-            <button type="submit" class="btn btn-primary">Submit Review</button>
-        </form>
-
+        
         <hr>
 
         <!-- Display Reviews -->
